@@ -1,4 +1,4 @@
-# Doctors List
+# Android Template
 
 By [Mohammed Fathy](mailto:dev.mfathy@gmail.com)
 
@@ -25,9 +25,5 @@ I used the following libraries:
 
 ## Requirements
 
-##### Implementing an app to search for doctors using test:
-* The task is implemented using MVVM architecture.
-* The data layer is implemented using repository pattern, so we can add more data source easily.
-* The chosen fetch of data is: Return remote copy.
-* Remote data source: uses Okhttp or Retrofit API to call the Backend API. 
+##### ----
 
